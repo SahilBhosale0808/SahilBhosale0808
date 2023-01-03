@@ -29,6 +29,8 @@ while(dev.isCoding())
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 <br><br>
 
+<a href="https://github.com/SahilBhosale0808" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilBhosale0808&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <p align="center">Check out my <a href="https://sahilbhosale08.netlify.app/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
 
 <p align="center">
